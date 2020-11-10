@@ -1,0 +1,22 @@
+body{
+    background-color: #7952B3;
+}
+
+.link{
+    color: #7952B3;
+}
+
+a:link 
+{ 
+ text-decoration:none; 
+} 
+
+#div{
+    background-color: white;
+    position:absolute;
+    width:80%;
+    height:75%;
+    border-radius: 5px;
+    margin-top: -38%;
+    margin-left: 16%;
+}
